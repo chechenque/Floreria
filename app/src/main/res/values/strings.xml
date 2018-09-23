@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Floreria</string>
+    <string name="pass">pass</string>
+    <string name="signIn">Entrar</string>
+    <string name="dontHaveaccount">Crea Cuenta</string>
+    <string name="email">Email</string>
+</resources>
